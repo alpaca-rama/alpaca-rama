@@ -2,6 +2,8 @@
 
 I’m a **passionate and dedicated Full Stack Developer** specializing in creating robust, user-centric solutions using modern web technologies. My journey in technology began during high school, and I’ve been continuously honing my skills through academic studies, hands-on projects, and professional experiences.
 
+[Some of my work/learning](https://website-links-three.vercel.app)
+
 ---
 
 ## 🛠️ **Tech Stack & Expertise**  
